@@ -1,0 +1,30 @@
+﻿body
+{
+	font-size:14px;
+}
+.RegDiv
+{
+	width:780px; 
+	height:398px; 
+	background-image:url(../Images/ps_reg_bg.jpg);
+	background-repeat:no-repeat;
+}
+.RegTable
+{
+	text-align:left;
+	border: 1px solid #DFF8FF;
+	width: 700px;
+	margin-top:100px;
+}
+.RegTable tr
+{	
+	background-color: #F7FDFF;
+}
+.RegTable .double
+{
+	background-color:White;
+}
+.RegTable td
+{
+	height:25px;
+}
